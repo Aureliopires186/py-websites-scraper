@@ -1,0 +1,15 @@
+go-serpapi-websites-scraper/
+
+
+go-serpapi-websites-scraper/
+├── main.go
+├── go.mod
+├── README.md
+└── examples/
+    ├── google_jobs.go
+    ├── google_shopping.go
+    └── google_news.go
+
+
+
+
